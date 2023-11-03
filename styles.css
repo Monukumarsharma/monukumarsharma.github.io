@@ -1,4 +1,5 @@
 
+
 /* Add styles for the logo and search bar in the header */
 header {
     
@@ -20,14 +21,14 @@ header .logo img {
     display: flex;
     align-items: center;
     position: fixed;
-    margin-left: 145px;
+    
 }
 
 .search-bar input[type="text"] {
     padding: 5px;
     border: none;
     border-radius: 5px;
-    width: 226.5px;
+   
     margin-right: 10px;
     height: 16px;
     
@@ -41,7 +42,7 @@ header .logo img {
     border-radius: 5px;
     cursor: pointer;
     position: fixed;
-    margin-left: 200px; 
+  
     height: 24px;
 }
 
@@ -103,7 +104,7 @@ main {
 }
 
 .thumbnails {
-    width: 397px;
+    width: 394px;
 
    
 }
@@ -143,10 +144,9 @@ main {
  
 
 #website-iframe {
-    width: 397px;
+    width: 394px;
     height: 235px;
     border: none;
-   
     margin-top: 51px;
    
 }
@@ -182,14 +182,14 @@ header {
 .search-bar {
     display: flex;
     align-items: center;
-    margin-left: 145px;
+    margin-left: 156px;
 }
 
 .search-bar input[type="text"] {
     padding: 5px;
     border: none;
     border-radius: 5px;
-    width: 226.5px;
+    width: 206.5px;
     margin-right: 10px;
     height: 16px;
     background-color: #333; /* Darker input background */
@@ -203,7 +203,7 @@ header {
     padding: 5px 10px;
     border-radius: 5px;
     cursor: pointer;
-    margin-left: 200px;
+    margin-left: 180px;
     height: 24px;
 }
 
@@ -302,4 +302,33 @@ header {
     height: 33px;
     position: center;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
